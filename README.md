@@ -7,8 +7,9 @@
 
 -Coordenadas.txt: En él se albergan las coordenadas del Rubik, mismas que se guardaron durante la ejecución del programa
 
--Taladro: Es una carpeta que contiene todos los códigos usados para obtener la ubicación del taladro. En ella se encuentra lo siguiente: 
-      1.	Code_meta3-Taladro.py: Similar al código del Rubik pero con las adecuaciones para el taladro
-      2.	Coordenadas-Taladro.txt: Son las coordenadas del taladro;  guardadas durante la ejecución del programa.
-      3.	Taladro-movimiento.py. Es el código usado para trasladar a Takeshi directamente a los taladros. 
+### -Taladro: Es una carpeta que contiene todos los códigos usados para obtener la ubicación del taladro. En ella se encuentra lo siguiente: 
+
+-Code_meta3-Taladro.py: Similar al código del Rubik pero con las adecuaciones para el taladro
+-Coordenadas-Taladro.txt: Son las coordenadas del taladro;  guardadas durante la ejecución del programa.
+-Taladro-movimiento.py. Es el código usado para trasladar a Takeshi directamente a los taladros. 
 
