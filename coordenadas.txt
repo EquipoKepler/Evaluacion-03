@@ -1,0 +1,5 @@
+Coordenadas respecto al mapa
+Las coordenadas del primero objeto object_fix son
+0.10906777403066435, 1.5277646568499452, 0.7339932139866187
+Las coordenadas del segundo objeto object_fix2 son
+0.3833612249345611, 1.6211502192343132, 0.7307247069011117
