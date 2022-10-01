@@ -1,9 +1,18 @@
-A través del siguiente enlace se puede consultar el video de la corrida en Gazebo
+1. A través de los dos siguientes enlaces se puede consultar el video de la corrida en Gazebo para el cubo de rubik
+1.1. Por drive:
 
-	cubo rubick: https://drive.google.com/file/d/1oJoAvlg75x7GDdXXhXTKCQBvjTUll32n/view?usp=sharing
-        taladro: https://drive.google.com/file/d/1ZHkrj2uq_jIZAfNh6AjUctICOuIWn-CF/view?usp=sharing
-	
-Por Youtube: 
+	https://drive.google.com/file/d/1oJoAvlg75x7GDdXXhXTKCQBvjTUll32n/view?usp=sharing
+        
+1.2. Por Youtube: 
 		
-	cubo rubick: https://youtu.be/jbyFEDqwRwk
-        taladro: https://youtu.be/NxmEOUG9gCc
+	https://youtu.be/jbyFEDqwRwk
+        
+
+2. A través de los dos siguientes enlaces se puede consultar el video de la corrida en Gazebo para el taladro
+2.1. Por drive: 
+
+	https://drive.google.com/file/d/1ZHkrj2uq_jIZAfNh6AjUctICOuIWn-CF/view?usp=sharing
+	
+2.2. Por Youtube: 
+
+	https://youtu.be/NxmEOUG9gCc
