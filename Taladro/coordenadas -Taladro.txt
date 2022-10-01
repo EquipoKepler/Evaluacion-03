@@ -1,0 +1,3 @@
+Coordenadas respecto al mapa
+Las coordenadas del primero objeto object_fix son
+-3.4932551865902437, 4.104680087414, 0.028614766556872888
